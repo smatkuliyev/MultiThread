@@ -1,7 +1,7 @@
 package package1;
 
 @SuppressWarnings("SpellCheckingInspection")
-public class MT02BlockLevelSynchronization {
+public class MT03BlockLevelSynchronization {
     /*
      Uygulamalarda bazen tüm metotudun synchronized yapılması gerekmeyebilir.
 	  Bu durumda, sadece ilgili kısımları synchronized yapıp diğer kısımların klasik multi-threading mantığı ile
